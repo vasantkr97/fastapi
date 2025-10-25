@@ -48,25 +48,5 @@
         "weight": 75,
         "bmi": 31.22,
         "verdict": "Obese"
-    },
-    "P007": {
-        "name": "vasanth",
-        "city": "Anantapur",
-        "age": 23,
-        "gender": "male",
-        "height": 5.75,
-        "weight": 61.0,
-        "bmi": 1.84,
-        "verdict": "Underweight"
-    },
-    "P008": {
-        "name": "vasanth",
-        "city": "Anantapur",
-        "age": 23,
-        "gender": "male",
-        "height": 5.75,
-        "weight": 61.0,
-        "bmi": 1.84,
-        "verdict": "Underweight"
     }
 }
